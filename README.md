@@ -7,9 +7,9 @@ This pages shows some of the work that I have completed over the years at Boise 
 This is a basic HelloWorld program written in java:
 
 ```markdown
-**public class** HelloWorld {
+public class HelloWorld {
 
-  **public static void** main(String[] args) {
+  public static void main(String[] args) {
     System.out.println("Hello world!");
   }
 }
