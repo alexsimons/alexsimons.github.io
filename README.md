@@ -1,36 +1,33 @@
-## Welcome to GitHub Pages
+## Welcome to my page 
 
-You can use the [editor on GitHub](https://github.com/alexsimons/alexsimons.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This pages shows some of the work that I have completed over the years at Boise State. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### HelloWorld 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a basic HelloWorld program written in java:
 
 ```markdown
-Syntax highlighted code block
+**public class** HelloWorld {
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+  **public static void** main(String[] args) {
+    System.out.println("Hello world!");
+  }
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Java
 
-### Jekyll Themes
+Java stuff.. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexsimons/alexsimons.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### C
+
+C stuff.. 
+
+### Data Structures
+
+knowldege I know about data structures...
+
+etc. 
 
 ### Support or Contact
 
